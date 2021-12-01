@@ -1,4 +1,6 @@
 /*Titulos*/
+@import url("https://fonts.googleapis.com/css?family=Cinzel+Decorative");
+/*Textos importantes*/
 @import url("https://fonts.googleapis.com/css?family=Cinzel");
 /*Textos Vacios*/
 @import url("https://fonts.googleapis.com/css?family=Flow+Rounded");
@@ -72,12 +74,11 @@ body{
 }
 
 .tittle{
-    font-family: "Cinzel", bold;
+    font-family: "Cinzel Decorative", bold;
     float: left;
     width: 100%;
-    padding: 5px;
     margin-bottom: 1%;
-    margin-top: 1%;
+    margin-top: 3%;
     text-align: center;
 }
 

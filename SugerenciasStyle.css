@@ -1,4 +1,6 @@
 /*Titulos*/
+@import url("https://fonts.googleapis.com/css?family=Cinzel+Decorative");
+/*Textos importantes*/
 @import url("https://fonts.googleapis.com/css?family=Cinzel");
 /*Textos Vacios*/
 @import url("https://fonts.googleapis.com/css?family=Flow+Rounded");
@@ -74,12 +76,12 @@ body{
 /*contenido*/
 
 .tittle{
-    font-family: "Cinzel", bold;
+    font-family: "Cinzel Decorative", bold;
     float: right;
     width: 100%;
     padding: 5px;
-    margin-bottom: 5px;
-    margin-top: 10px;
+    margin-bottom: 2%;
+    margin-top: 3%;
     text-align: center;
     align-items: center;
 }
@@ -89,6 +91,7 @@ body{
     padding: 15px;
     margin-left: 25%;
     margin-bottom: 10px;
+    align-items: center;
 
     font-family: "Poiret One", bold;
     font-size: 50;
@@ -113,8 +116,8 @@ input:valid {
     width: 40%;
     margin-left: 30%;
     margin-right: 30%;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
     background-color: #DAB598;
   }
   
@@ -123,4 +126,14 @@ input:valid {
     text-align: center;
     border-bottom: 1px solid #415889;
     border-top: 1px solid #415889 ;
+    font-family: "Cinzel", bold;
   }
+
+  .redes th, td, a{
+    color: black;
+    text-decoration: none;
+  }
+
+  .redes a:hover{
+    color: #415889;
+}
