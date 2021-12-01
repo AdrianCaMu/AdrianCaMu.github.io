@@ -2,7 +2,7 @@
 
 _Este proyecto tiene como objetivo facilitar la búsqueda de información sobre seres y lugares de la mitología de España a toda esa gente que quiere saber más sobre las historias que contaban nuestros antepasados y que es complicado encontrar debido a la poca difusión que tiene en contraposición de otras mitologías._
 
-## Secciones de la página 🚀
+## Secciones de la página �📋
 
 _Encontramos una cabecera con un mapa físico de la península así como el título de la web y un menú que nos permitirá ir a las diferentes secciones de nuestra página._
 
