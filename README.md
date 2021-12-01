@@ -43,8 +43,6 @@ _Este proyecto ha sido posible gracias a la participación de: _
 * **Adrián Cámara** - *Programador y escritor de la página* - [@adriancamara0](https://twitter.com/adriancamara0)
 * **Javier Prado** - *Ilustrador* - [@JaviertPrado](https://twitter.com/JaviertPrado)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
 ## Licencia 📜
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
