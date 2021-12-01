@@ -24,7 +24,7 @@ En la sección de contacto podemos encontrar una tabla con nuestras redes social
 
 ## Enlace Web 📱&💻
 
-_Podeis acceder directamente a la web desde los siguientes enlaces: _
+_Podeis acceder directamente a la web desde los siguientes enlaces:_
 
 * [Home](https://adriancamu.github.io/) - Página principal de la página web
 * [Seres](https://adriancamu.github.io/Seres.html) - Seleccion de seres mitológicos de España.
