@@ -1,4 +1,4 @@
-# Mitología Ibérica Página Web
+# 🌘 Mitología Ibérica Página Web 🌒
 
 _Este proyecto tiene como objetivo facilitar la búsqueda de información sobre seres y lugares de la mitología de España a toda esa gente que quiere saber más sobre las historias que contaban nuestros antepasados y que es complicado encontrar debido a la poca difusión que tiene en contraposición de otras mitologías._
 
@@ -19,7 +19,7 @@ En la sección de contacto podemos encontrar un formulario para proponer nuevos 
 ```
 
 ```
-En la sección de contacto podemos encontrar una tabla para dar a conocer nuestras redes sociales y facilitar el contacto con nosotros para responderos dudas y aceptar sugerencias.
+En la sección de contacto podemos encontrar una tabla con nuestras redes sociales y facilitar el contacto con nosotros para vuestras dudas y sugerencias.
 ```
 
 ## Enlace Web 📱&💻
@@ -55,4 +55,4 @@ El código de la página es de uso gratuito siempre y cuando se acredite la proc
 * Disfruta y aprende con nuestro proyecto 🔎
 
 ---
-⌨️ por [Adrián Cámara Muñoz](https://twitter.com/adriancamara0) 😊
+⌨️ por [Adrián Cámara Muñoz](https://twitter.com/adriancamara0) 💛
