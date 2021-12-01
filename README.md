@@ -26,11 +26,11 @@ En la sección de contacto podemos encontrar una tabla para dar a conocer nuestr
 
 _Podeis acceder directamente a la web desde los siguientes enlaces: _
 
-* [Home](http://www.dropwizard.io/1.0.2/docs/) - Página principal de la página web
-* [Seres](https://maven.apache.org/) - Seleccion de seres mitológicos de España.
-* [Lugares](https://rometools.github.io/rome/) - Selección de Lugares mitológicos de España
-* [Contacto](https://rometools.github.io/rome/) - Página con formulario para sugerencias y redes sociales de contacto.
-* [Nosotros](https://rometools.github.io/rome/) - Página con información sobre el proyecto.
+* [Home](https://adriancamu.github.io/) - Página principal de la página web
+* [Seres](https://adriancamu.github.io/Seres.html) - Seleccion de seres mitológicos de España.
+* [Lugares](https://adriancamu.github.io/Lugares.html) - Selección de Lugares mitológicos de España
+* [Contacto](https://adriancamu.github.io/Sugerencias.html) - Página con formulario para sugerencias y redes sociales de contacto.
+* [Nosotros](https://adriancamu.github.io/Nosotros.html) - Página con información sobre el proyecto.
 
 ## Contribuyendo 🖇️
 
