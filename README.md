@@ -38,7 +38,7 @@ Por favor dejanos tus opiniones en nuestro [Twitter](https://twitter.com/adrianc
 
 ## Autores ✒️
 
-_Este proyecto ha sido posible gracias a la participación de: _
+_Este proyecto ha sido posible gracias a la participación de:_
 
 * **Adrián Cámara** - *Programador y escritor de la página* - [@adriancamara0](https://twitter.com/adriancamara0)
 * **Javier Prado** - *Ilustrador* - [@JaviertPrado](https://twitter.com/JaviertPrado)
