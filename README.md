@@ -45,7 +45,8 @@ _Este proyecto ha sido posible gracias a la participación de: _
 
 ## Licencia 📜
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo derechos de autor de las Ilustraciones por parte de Javier Prado. 
+El código de la página es de uso gratuito siempre y cuando se acredite la procedencia siempre que se utilice el código, textos, ilustraciones o similares de esta página web.
 
 ## Apoyo al Proyecto 🎁
 
