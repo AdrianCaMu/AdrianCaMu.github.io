@@ -53,10 +53,24 @@ body{
     float: right;
 }
 
+/*-----------------------------------*/
+/*pie de pagina*/
+
+.logo{
+    display: block;
+    width: 5%;
+    margin-right: 45%;
+    margin-left: 45%;
+    padding: 10px;
+}
+
+
+
 /*------------------------------*/
 /*contenido*/
 
 .contenido{
+    background-color: #DAB598;
     margin-right: 10%;
     margin-left: 10%;
     margin-top: 1%;

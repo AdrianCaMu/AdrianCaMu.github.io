@@ -53,12 +53,13 @@ body{
     float: right;
 }
 
+
+
+
 /*-----------------------------------*/
 /*pie de pagina*/
-.footer {
-    background-color: #DAB598;
-    text-align: center;
-}
+/*-----------------------------------*/
+/*pie de pagina*/
 
 .logo{
     display: block;
@@ -68,9 +69,7 @@ body{
     padding: 10px;
 }
 
-* {
-    box-sizing: border-box;
-}
+
 
 /*-----------------------------------*/
 /*contenido*/
