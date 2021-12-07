@@ -30,7 +30,7 @@
 
         <fieldset>
             <legend><h2>Propuesta de personaje o lugar Mitológico:</h2></legend>
-            
+
             <label for="name"><h3>Nombre del ser :</h3></label>
             <input type="text" id="fname" name="fname" placeholder="Nombre del ser" pattern="[a-zA-ZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźñçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹÑßÇŒÆČŠŽ∂ð ,.'-]{2,48}" required>
             <p>*Un nombre válido tiene entre 2 y 48 caracteres y solo contendrá letras*</p>
@@ -72,6 +72,9 @@
             <textarea name = "information" rows = "10" cols = "36" placeholder="Escribe aquí la información que creas conveniente que sepamos sobre el ser o lugar Mitológico que quieres sugerir." ></textarea>
             
             <br><br>
+
+            <label for="fecha"><h3>Fecha de consulta:</h3></label>
+            <input type="date" id="fecha" name="fecha">
 
             <button type="send" onclick="alert('Datos enviados, gracias por colaborar!')">Enviar</button>
 
