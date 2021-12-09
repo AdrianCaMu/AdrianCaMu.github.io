@@ -117,14 +117,12 @@ body{
     text-align: center;
 }
 
-.textoD{
-    float: right;
-    width: 30%;
-    margin-left: 3%;
+.mapa{
+    float: left;
+    margin-left: 8%;
     margin-right: 15%;
-    margin-bottom: 3%;
-    font-family: "Flow Rounded";
-    text-align: left;
+    margin-bottom: 2%;
+    margin-top: 2%;
 }
 
 .desplegable select{
