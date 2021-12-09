@@ -95,13 +95,18 @@ body{
     float: left;
     width: 15%;
     margin-left: 18%;
+    margin-top: 7%;
+}
+
+.imagenI img{
+    border-radius: 5%;
 }
 
 .textoD {
     font-family: "Poiret One", bold;
     float: right;
     width: 45%;
-    padding: 5px;
+    padding: 30px;
     margin-right: 18%;
     background-color:#DAB598;
     line-height: 30px;
@@ -112,13 +117,18 @@ body{
     float: right;
     width: 15%;
     margin-right: 18%;
+    margin-top: 7%;
+}
+
+.imagenD img{
+    border-radius: 5%;
 }
 
 .textoI {
     font-family: "Poiret One", bold;
     float: left;
     width: 45%;
-    padding: 5px;
+    padding: 30px;
     margin-left: 18%;
     background-color:#DAB598;
     line-height: 30px;

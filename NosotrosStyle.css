@@ -109,6 +109,10 @@ body{
     text-align: center;
 }
 
+.imagenD img{
+    border-radius: 5%;
+}
+
 .textoI{
     float: left;
     width: 30%;
@@ -128,6 +132,10 @@ body{
     margin-top: 3%;
     font-family: "Cinzel", bold;
     text-align: center;
+}
+
+.imagenI img{
+    border-radius: 5%;
 }
 
 .textoD{
