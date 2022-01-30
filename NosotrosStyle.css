@@ -147,3 +147,147 @@ body{
     font-family: "Cinzel", bold;
     text-align: left;
 }
+
+
+@media(max-width: 768px){
+        
+    /*------------------------------*/
+    /*menu*/
+    .menu{
+        background-color: #DAB598;
+    }
+  
+    .menu ul{
+        list-style: none;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+  
+    .menu ul li{
+        font-family: "Cinzel", bold;
+        display: inline-block;
+        font-size: small;
+    }
+  
+    .menu ul li a{
+        display: block;
+        color: black;
+        padding: 10px 12px;
+        text-decoration: none;
+        
+    }
+  
+    .item-r{
+        float: right;
+    }
+  
+    /* Cambia color fondo al pasar el cursor */
+    .menu ul li a:hover{
+        background-color: #415889;
+    }
+  
+    /*-----------------------------------*/
+    /*pie de pagina*/
+    .footer {
+        background-color: #DAB598;
+        text-align: center;
+    }
+  
+    .logo{
+        display: block;
+        width: 10%;
+        margin-right: 45%;
+        margin-left: 45%;
+        padding: 10px;
+    }
+
+    
+/*------------------------------*/
+/*contenido*/
+
+.contenido{
+    background-color: #DAB598;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 1%;
+    width: 80%;
+}
+
+.tittle{
+    font-family: "Cinzel Decorative", bold;
+    float: left;
+    width: 100%;
+    margin-bottom: 2%;
+    margin-top: 3%;
+    text-align: center;
+    font-size: small;
+}
+
+.cabecera {
+    font-family: "Cinzel";
+    width: 60%;
+    padding: 5px;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin-left: 20%;
+    text-align: center;
+    line-height: 30px;
+    font-size: small;
+
+
+}
+
+.imagenD{
+    float: left;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    font-family: "Cinzel", bold;
+    text-align: center;
+}
+
+.imagenD img{
+    border-radius: 5%;
+}
+
+.textoI{
+    float: left;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 4%;
+    font-family: "Cinzel", bold;
+    text-align: left;
+    font-size: small;
+}
+
+.imagenI{
+    float: left;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    margin-top: 3%;
+    font-family: "Cinzel", bold;
+    text-align: center;
+}
+
+.imagenI img{
+    border-radius: 5%;
+}
+
+.textoD{
+    float: left;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 3%;
+    font-family: "Cinzel", bold;
+    text-align: left;
+    font-size: small;
+
+}
+}  
