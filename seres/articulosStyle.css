@@ -53,15 +53,17 @@ body{
     float: right;
 }
 
-/*-----------------------------------*/
 /*pie de pagina*/
+.footer {
+    background-color: #DAB598;
+    text-align: center;
+}
 
 .logo{
     display: block;
-    width: 4%;
-   
-    margin-right: 48%;
-    margin-left: 48%;
+    width: 5%;
+    margin-left: 47%;
+    padding: 10px;
 }
 
 /*------------------------------*/
@@ -97,8 +99,8 @@ body{
 
 .imagenI{
     float: left;
-    width: 30%;
-    margin-left: 15%;
+    width: 20%;
+    margin-left: 25%;
     margin-right: 4%;
     margin-bottom: 2%;
     margin-top: 2%;
@@ -109,6 +111,7 @@ body{
 .textoD{
     float: right;
     width: 30%;
+    margin-top: 4%;
     margin-left: 3%;
     margin-right: 15%;
     margin-bottom: 3%;
@@ -151,4 +154,144 @@ body{
     text-align: center;
 }
 
+@media(max-width: 640px){
+        
+    /*------------------------------*/
+    /*menu*/
+    .menu{
+        background-color: #DAB598;
+    }
+  
+    .menu ul{
+        list-style: none;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+  
+    .menu ul li{
+        font-family: "Cinzel", bold;
+        display: inline-block;
+        font-size: small;
+    }
+  
+    .menu ul li a{
+        display: block;
+        color: black;
+        padding: 10px 12px;
+        text-decoration: none;
+        
+    }
+  
+    .item-r{
+        float: right;
+    }
+  
+    /* Cambia color fondo al pasar el cursor */
+    .menu ul li a:hover{
+        background-color: #415889;
+    }
 
+    /*-----------------------------------*/
+    /*pie de pagina*/
+    .footer {
+        background-color: #DAB598;
+        text-align: center;
+    }
+
+    .logo{
+        display: block;
+        width: 8%;
+        margin-left: 44%;
+        padding: 10px;
+    }
+
+    
+/*------------------------------*/
+/*contenido*/
+
+.contenido{
+    background-color: #DAB598;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 1%;
+    width: 80%;
+}
+
+.tittle{
+    font-family: "Cinzel Decorative", bold;
+    float: left;
+    width: 100%;
+    margin-bottom: 2%;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.textoC{
+    float: left;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: "Flow Rounded";
+    text-align: left;
+}
+
+.imagenI{
+    float: left;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    font-family: "Cinzel", bold;
+    text-align: center;
+}
+
+.textoD{
+    float: left;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: "Flow Rounded";
+    text-align: left;
+}
+
+.desplegable select{
+    float: left;
+    background-color:#415889;
+    color:#DAB598;
+    margin-right: 40%;
+    margin-left: 40%;
+    border-radius: 2%;
+    border-color: black;
+    width:20%;
+    text-align: center;
+    font-family: "Cinzel", bold;
+}
+
+.desplegable input{
+    float: left;
+    background-color:#415889;
+    color:#DAB598;
+    margin-right: 45%;
+    margin-left: 45%;
+    margin-top: 1%;
+    border-radius: 2%;
+    border-color: black;
+    margin-bottom: 2%;
+    width: 10%;
+    text-align: center;
+    font-family: "Cinzel", bold;
+}
+
+.subtittle{
+    font-family: "Cinzel Decorative", bold;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+}
+  
