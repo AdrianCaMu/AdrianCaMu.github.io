@@ -103,6 +103,93 @@ body{
     text-align: center;
 }
 
+@media(max-width: 1007px){
+    
+/*------------------------------*/
+/*menu*/
+.menu{
+    background-color: #DAB598;
+}
+
+.menu ul{
+    list-style: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li{
+    font-family: "Cinzel", bold;
+    display: inline-block;
+}
+
+.menu ul li a{
+    display: block;
+    color: black;
+    padding: 10px 8px;
+    text-decoration: none;
+    
+}
+
+/* Cambia color fondo al pasar el cursor */
+.menu ul li a:hover{
+    background-color: #415889;
+}
+
+.item-r{
+    float: right;
+}
+
+/*-----------------------------------*/
+/*pie de pagina*/
+.footer {
+    background-color: #DAB598;
+    text-align: center;
+}
+
+.logo{
+    display: block;
+    width: 10%;
+    margin-top: 5%;
+    margin-left: 40%;
+    padding: 10px;
+}
+
+
+/*-----------------------------------*/
+/*contenido*/
+
+.contenido{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 1%;
+    width: 80%;
+}
+
+.imagen{
+    float: left;
+    width: 36%;
+    margin-left: 9%;
+    margin-bottom: 5%;
+    border-radius: 10%;
+    font-family: "Cinzel", bold;
+    text-align: center;
+}
+
+.imagen img{
+    border-radius: 5%;
+}
+
+.tittle{
+    font-family: "Cinzel Decorative", bold;
+    float: left;
+    width: 100%;
+    margin-bottom: 1%;
+    margin-top: 3%;
+    text-align: center;
+}
+}
+
 @media(max-width: 640px){
     /*------------------------------*/
     /*menu*/
